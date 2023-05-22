@@ -1,5 +1,5 @@
 import "./App.css";
-import { NotesDBProvider } from "./components/NotesDBProvider";
+import { NotesDBProvider } from "./components/NotesDBProvider/NotesDBProvider";
 
 function App() {
   return (
